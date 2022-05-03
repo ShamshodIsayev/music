@@ -13,7 +13,11 @@ function Album({ data }) {
       onMouseEnter={handleClickFigure}
     >
       <Link to="/player" key={data.id}>
-        <img alt="figure" className="figure__img" src={`./${data.img}`} />
+        <img
+          alt="figure"
+          className="figure__img"
+          src={`https://music-uz.herokuapp.com/www.music-uz.herokuapp.com/${data.img}`}
+        />
         <h4 className="figure__title">{data.name}</h4>
       </Link>
     </figure>

@@ -12,7 +12,9 @@ function SongPages() {
 
   store.subscribe(() => {
     if (sound.current) {
-      const song = "./audio/" + store.getState().currentSong.src;
+      const song =
+        "https://music-uz.herokuapp.com/www.music-uz.herokuapp.com/audio/" +
+        store.getState().currentSong.src;
       if (song != "undefined") sound.current.src = song;
 
       const status = store.getState().playStatus;

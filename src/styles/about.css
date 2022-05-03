@@ -1,0 +1,66 @@
+.about {
+  text-align: left;
+  position: relative;
+  padding: 2% 6%;
+}
+
+.about_block {
+  padding: 4% 7%;
+  text-align: center;
+  position: relative;
+}
+
+.about_block img {
+  width: 30%;
+  margin: 3%;
+  transition: 0.2s;
+  border-radius: 5%;
+}
+
+.about_block img:hover {
+  box-shadow: 0 0 20px 2px white;
+  filter: contrast(1.3);
+}
+
+.about_block h2 {
+  backdrop-filter: blur(2px);
+  font-size: 32px;
+  font-family: "dancing";
+}
+
+.about_block p {
+  font-size: 18px;
+  font-family: system-ui;
+  backdrop-filter: blur(7px);
+}
+
+.about_title {
+  margin-bottom: 3%;
+  font-size: 28px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Dancing";
+}
+
+.about__wrapper {
+}
+
+.about__wrapper li {
+  margin-bottom: 2%;
+}
+
+.about__wrapper h4 {
+  font-size: 20px;
+  font-family: system-ui;
+}
+
+.about_figure h4:hover {
+  color: blue;
+  text-decoration: dotted;
+}
+
+@media (max-width: 464px) {
+  .about_block p {
+    font-size: 16px;
+  }
+}

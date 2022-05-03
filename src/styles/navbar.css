@@ -1,0 +1,38 @@
+.navbar {
+  height: 7vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(181, 181, 247);
+  width: 100%;
+}
+
+.navbar ul {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar a {
+  color: black;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: cursive;
+}
+
+.navbar a.active {
+  color: rgb(122, 13, 104);
+}
+
+@media (max-width: 767px) {
+  .navbar ul {
+    width: 42%;
+  }
+}
+
+@media (max-width: 464px) {
+  .navbar ul {
+    width: 52%;
+  }
+}

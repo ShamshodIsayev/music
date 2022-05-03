@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Orif Alimaxsumov",
+    "info": "",
+    "img": "./images/alimaxsumov.png",
+    "album": [],
+    "songs": [
+      {
+        "title": "Cho'li iroq",
+        "src": "Alimaxsumov/ORIF ALIMAXSUMOV  CHO'LI IROQ.mp3"
+      },
+      {
+        "title": "Qo'qon ushshog'i",
+        "src": "Alimaxsumov/ORIF ALIMAXSUMOV  QO'QON USHSHOG'I.mp3"
+      },
+      {
+        "title": "Bormikan",
+        "src": "Alimaxsumov/ORIF ALIMAXSUMOV BORMIKIN.mp3"
+      },
+      {
+        "title": "Dugox 3",
+        "src": "Alimaxsumov/ORIF ALIMAXSUMOV  DUGOX -3.mp3"
+      },
+      {
+        "title": "Kezarman",
+        "src": "Alimaxsumov/ORIF ALIMAXSUMOV  KEZARMAN.mp3"
+      },
+      {
+        "title": "Saraxbori Dugox",
+        "src": "Alimaxsumov/ORIF ALIMAXSUMOV  SARAXBORI DUGOX.mp3"
+      },
+      {
+        "title": "Ey dilbari janon",
+        "src": "Alimaxsumov/ORIF ALIMAXSUMOV  EY DILBARI JANON.mp3"
+      },
+      {
+        "title": "Kelgaymikan",
+        "src": "Alimaxsumov/ORIF ALIMAXSUMOV  KELGAYMIKAN  .mp3"
+      }
+    ]
+  },
+  {
+    "name": "Orifhon Hotamov",
+    "info": "",
+    "img": "",
+    "album": [],
+    "songs": [
+      {
+        "title": "Indamaslar olami",
+        "src": "Hotamov/"
+      },
+      {
+        "title": "Dugoh Xusayniy",
+        "src": "Hotamov/Dugoh(tojik).mp3"
+      },
+      {
+        "title": "Sensiz",
+        "src": "Hotamov/"
+      },
+      {
+        "title": "Jano qani",
+        "src": "Hotamov/Jano qani.mp3"
+      },
+      {
+        "title": "Nasrulloyi",
+        "src": "Hotamov/NASRULLOYI.mp3"
+      },
+      {
+        "title": "Himmat bo'lmasa",
+        "src": "Hotamov/Himmat bo'lmasa.mp3"
+      },
+      {
+        "title": "Qoshi yosinmu deyin",
+        "src": "Hotamov/Qoshi yosinmi deyin.mp3"
+      },
+      {
+        "title": "Ayo odam",
+        "src": "Hotamov/Ayo odam.mp3"
+      },
+      {
+        "title": "Buxoro iroqi",
+        "src": "Hotamov/Buxoro iroqi.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Mahmudjon Yo'ldoshev",
+    "info": "",
+    "img": "",
+    "album": [],
+    "songs": [
+      {
+        "title": "Nasrulloyi",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      }
+    ]
+  },
+  {
+    "name": "Yunus Rajabiy",
+    "info": "",
+    "img": "",
+    "album": [],
+    "songs": [
+      {
+        "title": "Kuygay",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      }
+    ]
+  },
+  {
+    "name": "Fattohxon Mamadaliyev",
+    "info": "",
+    "img": "",
+    "album": [],
+    "songs": [
+      {
+        "title": "Topmadim",
+        "src": "Mamadaliyev/TOPMADIM.mp3"
+      },
+      {
+        "title": "Ol xabar",
+        "src": "Mamadaliyev/Ol xabar.mp3"
+      },
+      {
+        "title": "Girya",
+        "src": "Mamadaliyev/Girya.mp3"
+      },
+      {
+        "title": "Sog'indim",
+        "src": "Mamadaliyev/Sog'indim.mp3"
+      },
+      {
+        "title": "Do'st bilan",
+        "src": "Mamadaliyev/Do'st bilan.mp3"
+      },
+      {
+        "title": "Dardu dilim",
+        "src": "Mamadaliyev/Dardu dilim.mp3"
+      },
+      {
+        "title": "Fosh o'lsun",
+        "src": "Mamadaliyev/Fosh o'lsun.mp3"
+      },
+      {
+        "title": "Etamasmudin",
+        "src": "Mamadaliyev/Etmasmudin.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Barno Isoqova",
+    "info": "",
+    "img": "",
+    "album": [],
+    "songs": [
+      {
+        "title": "Alla",
+        "src": "Isoqova/01.Alla.mp3"
+      },
+      {
+        "title": "Sayyora",
+        "src": "Isoqova/20.Sayyora.mp3"
+      },
+      {
+        "title": "Ey sabo",
+        "src": "Isoqova/Ey sabo.mp3"
+      },
+      {
+        "title": "Ayyomi ishq",
+        "src": "Isoqova/Ayyomi ishq.mp3"
+      },
+      {
+        "title": "Iroqi Buhoro",
+        "src": "Isoqova/Iroqi Buxoro.mp3"
+      },
+      {
+        "title": "Girya",
+        "src": "Isoqova/18.Girya.mp3"
+      },
+      {
+        "title": "Munojot",
+        "src": "Isoqova/15.Munojot.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Abduhoshim Ismoilov",
+    "info": "",
+    "img": "",
+    "album": [],
+    "songs": [
+      {
+        "title": "Uchrashuv",
+        "src": ""
+      },
+      {
+        "title": "Dil Nolasi",
+        "src": ""
+      },
+      {
+        "title": "Kamon Nidosi",
+        "src": ""
+      },
+      {
+        "title": "Gullola",
+        "src": ""
+      },
+      {
+        "title": "Alla",
+        "src": ""
+      },
+      {
+        "title": "Xolim so'rma",
+        "src": ""
+      },
+      {
+        "title": "",
+        "src": ""
+      }
+    ]
+  },
+  {
+    "name": "Abdulahad Abdurashidov",
+    "info": "",
+    "img": "",
+    "album": [],
+    "songs": [
+      {
+        "title": "Cho'li Iroq",
+        "src": "Abdurashidov/Choli-iroq.mp3"
+      },
+      {
+        "title": "Kim desun",
+        "src": "Abdurashidov/Kim desun.mp3"
+      },
+      {
+        "title": "Segoh",
+        "src": "Abdurashidov/Segox.mp3"
+      },
+      {
+        "title": "O'zbekiston",
+        "src": "Abdurashidov/O'zbekiston.mp3"
+      },
+      {
+        "title": "Sharq termalari",
+        "src": "Abdurashidov/Nozanin.mp3"
+      }
+    ]
+  }
+]

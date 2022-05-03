@@ -1,0 +1,84 @@
+.albums {
+  text-align: center;
+  position: relative;
+}
+
+.albums h2 {
+  margin: 2%;
+  font-size: 40px;
+  font-family: "Dancing";
+}
+
+.album__wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 3%;
+}
+
+.figure {
+  width: 20%;
+  border: 1px solid rgb(216, 216, 216);
+  padding: 7px;
+  border-radius: 10px;
+  cursor: pointer;
+  min-height: 250px;
+  max-height: 250px;
+  height: 100%;
+  margin-bottom: 2%;
+  background-color: rgba(255, 255, 255, 0.144);
+}
+
+.figure:hover {
+  box-shadow: 1px 1px 20px 3px rgb(127, 127, 202);
+}
+
+.figure__img {
+  width: 80%;
+  border-radius: 50%;
+  min-height: 190px;
+  max-height: 190px;
+  object-fit: cover;
+}
+
+.figure__title {
+  font-size: 17px;
+  color: black;
+}
+
+.figure a {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 222px;
+}
+
+.song__wrap_title {
+  font-family: "Dancing";
+  font-size: 40px;
+  font-weight: 900;
+}
+
+@keyframes image {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 767px) {
+  .figure {
+    width: 25%;
+  }
+}
+
+@media (max-width: 595px) {
+  .figure {
+    width: 40%;
+  }
+}

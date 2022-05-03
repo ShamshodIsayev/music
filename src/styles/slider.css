@@ -1,0 +1,99 @@
+.home {
+  position: relative;
+}
+
+.home_title {
+  backdrop-filter: blur(2px);
+  margin: 4% auto;
+  font-size: 40px;
+  /* font-family: system-ui; */
+  font-family: "dancing";
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.slider {
+  width: 80%;
+  margin: 3% auto;
+  position: relative;
+  height: 80vh;
+  cursor: pointer;
+  border-radius: 2%;
+  box-shadow: 18px 6px 20px 1px !important;
+  overflow: hidden;
+}
+
+.slider img {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+}
+
+.swiper {
+  height: 100%;
+}
+
+.slider_slide {
+  height: 100%;
+  position: relative;
+}
+
+.slide_btn {
+  position: absolute;
+  bottom: 20%;
+  padding: 0.1% 3%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #1a1a1a;
+  color: #786eff;
+  font-size: 20px;
+  border-radius: 15px;
+  overflow: hidden;
+  min-width: 322px;
+  font-family: fredoka;
+  font-style: italic;
+  cursor: pointer;
+  animation: button 0.5s ease 0 infinite;
+  animation-name: button;
+  animation-duration: 2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+  letter-spacing: 2px;
+}
+
+.slide_btn:hover {
+  text-shadow: 0 0 3px;
+  box-shadow: 0 0 20px 2px;
+  animation: none;
+}
+
+@keyframes button {
+  0% {
+    box-shadow: 0 0 0 0;
+  }
+  /* 50%{
+    
+  } */
+  50% {
+    box-shadow: 0 0 20px 1px;
+  }
+}
+
+@media (max-width: 767px) {
+  .home_title {
+    margin: 4% auto 1%;
+  }
+
+  .slider {
+    margin-top: 0;
+  }
+
+  .slider img {
+    object-position: right;
+  }
+
+  .slide_btn {
+    min-width: 280px;
+    font-size: 18px;
+  }
+}

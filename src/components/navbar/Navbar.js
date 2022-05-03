@@ -8,7 +8,7 @@ function Navbar() {
   let location = useLocation();
   useEffect(() => {
     const fetchData = async () => {
-      const res = await fetch("http://localhost:3000/data.json", {
+      const res = await fetch("/data.json", {
         headers: {
           "Content-Type": "application/json",
           Accept: "application/json",

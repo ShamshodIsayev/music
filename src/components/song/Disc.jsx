@@ -15,7 +15,11 @@ function Disc() {
   return (
     <div className={playStatus === "play" ? "disc active" : "disc"}>
       <div className="disc_wrapper">
-        <img alt="disc" className="disc_img" src={img} />
+        <img
+          alt="disc"
+          className="disc_img"
+          src={`https://music-uz.herokuapp.com/www.music-uz.herokuapp.com/${img}`}
+        />
         <img alt="disc" className="disc_part" src={discPart} />
       </div>
     </div>

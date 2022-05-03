@@ -82,3 +82,9 @@
     width: 40%;
   }
 }
+
+@media (max-width: 464px) {
+  .figure {
+    width: 50%;
+  }
+}

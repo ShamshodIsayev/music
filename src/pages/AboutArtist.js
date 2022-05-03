@@ -9,7 +9,6 @@ function AboutArtist() {
   store.subscribe(() => {
     setData(store.getState().currentArtist);
   });
-  console.log(useLocation());
 
   useEffect(() => {
     setData(store.getState().currentArtist);

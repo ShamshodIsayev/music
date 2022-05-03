@@ -8,27 +8,19 @@
     "songs": [
       {
         "title": "Kuygay",
-        "src": ""
+        "src": "Rajabiy/kuygay.mp3"
       },
       {
-        "title": "",
-        "src": ""
+        "title": "Qaro ko'zim",
+        "src": "Rajabiy/qaro ko'zim.mp3"
       },
       {
-        "title": "",
-        "src": ""
+        "title": "Talqini Bayot",
+        "src": "Rajabiy/talqin.mp3"
       },
       {
-        "title": "",
-        "src": ""
-      },
-      {
-        "title": "",
-        "src": ""
-      },
-      {
-        "title": "",
-        "src": ""
+        "title": "Bir kelsun",
+        "src": "Rajabiy/kelsun.mp3"
       }
     ]
   },
@@ -58,10 +50,6 @@
       {
         "title": "Kezarman",
         "src": "Alimaxsumov/ORIF ALIMAXSUMOV  KEZARMAN.mp3"
-      },
-      {
-        "title": "Saraxbori Dugox",
-        "src": "Alimaxsumov/ORIF ALIMAXSUMOV  SARAXBORI DUGOX.mp3"
       },
       {
         "title": "Ey dilbari janon",
@@ -251,43 +239,6 @@
       {
         "title": "Sharq termalari",
         "src": "Abdurashidov/Nozanin.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Mahmudjon Yo'ldoshev",
-    "info": "Yo'ldoshev Mahmudjon (1953L1.8, Izboskan tumani) — xonanda, O'zbekiston xalq hofizi (2000). Kuchli, keng diapozonli ovoz sohibi. T. Jalilov nomidagi Andijon musiqa bilim yurtini tugatgan (1973). Ashulachilik sanʼati sirlarini dastlab X. Rahimov, keyinchalik F. Mamadaliyev, F. Hojiqulov, O'. Nuraliyevlardan o'rgangan. Andijon musiqa maktabi o'qituvchisi (1973—78), Andijon filarmoniyasi (1979—86), 'Maqom' ansamblit (1987 y.dan) xonanda. Repertuaridan makom yo'llari ('Nasrulloyi', 'Nasri Uz zol, 'Chapandozi Iroq'), katta ashula ('O'zbekiston', 'Soz etgali keldik'), bastakorlar asarlari ('Qoshi yosunmu deyin', 'Xalqimiz', 'Qalandar ishqi', O. Xotamov; 'Qadimgi Ushshoq' turkumi, F. Mamadaliyev; 'Yorimga ayting', 'Qaydasan', 'Muhabbat laylosi', A. Ismoilov) va b. o'rin olgan. [1]",
-    "img": "./images/yoldoshev.png",
-    "album": [],
-    "id": 2,
-    "songs": [
-      {
-        "title": "Nasrulloyi",
-        "src": ""
-      },
-      {
-        "title": "",
-        "src": ""
-      },
-      {
-        "title": "",
-        "src": ""
-      },
-      {
-        "title": "",
-        "src": ""
-      },
-      {
-        "title": "",
-        "src": ""
-      },
-      {
-        "title": "",
-        "src": ""
-      },
-      {
-        "title": "",
-        "src": ""
       }
     ]
   }

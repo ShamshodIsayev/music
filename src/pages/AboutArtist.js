@@ -21,8 +21,10 @@ function AboutArtist() {
       {data.name ? (
         <>
           <h2>{data.name}</h2>
-          {/* <img src={data.img} alt="ASDAS" /> */}
-          <img src={`http://localhost:3000/${data.img}`} alt="ASDAS" />
+          <img
+            src={`https://music-uz.herokuapp.com/www.music-uz.herokuapp.com/${data.img}`}
+            alt={data.name}
+          />
           <p>{data.info}</p>
         </>
       ) : (

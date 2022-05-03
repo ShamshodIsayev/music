@@ -8,7 +8,13 @@ function ArtistPic() {
     setPic(store.getState().currentArtist.img);
   }, [store]);
 
-  return <img className="artist_pic_img" src={pic} />;
+  return (
+    <img
+      alt={pic}
+      className="artist_pic_img"
+      src={`https://music-uz.herokuapp.com/www.music-uz.herokuapp.com/${pic}`}
+    />
+  );
 }
 
 export default ArtistPic;
